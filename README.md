@@ -29,7 +29,7 @@ This Power BI dashboard analyzes **472K+ car sales** across multiple years, focu
 ---
 
 ## 🛠️ Tools & Techniques
-- **Data Source**: [(https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)]
+- **Data Source**: [https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data]
 - **Tools Used**: 
   - Power BI (DAX, Power Query)
   - Data Modeling (Star Schema)
