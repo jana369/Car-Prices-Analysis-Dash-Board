@@ -42,8 +42,7 @@ This Power BI dashboard analyzes **472K+ car sales** across multiple years, focu
 
 ## 📂 How to Use This Report
 1. **For PDF Viewers**:  
-   - See pages 2-4 for interactive charts (if supported)
-   - Hover over visuals in Power BI for tooltips
+   - See pages 1-2 for interactive charts 
 
 2. **For Power BI Users**:  
    Download .pbix file and open in Power BI Desktop
